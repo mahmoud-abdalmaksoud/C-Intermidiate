@@ -1,0 +1,16 @@
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\Users\mahmoud\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
